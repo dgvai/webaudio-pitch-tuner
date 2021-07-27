@@ -1,7 +1,6 @@
 {
   "name": "react-tuner",
   "version": "0.1.0",
-  "homepage": "https://dgvai.github.io/webaudio-pitch-tuner/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.2.0",
@@ -17,8 +16,6 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
