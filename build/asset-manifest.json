@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/webaudio-pitch-tuner/static/css/main.b59fe771.chunk.css",
+    "main.js": "/webaudio-pitch-tuner/static/js/main.64723ce9.chunk.js",
+    "main.js.map": "/webaudio-pitch-tuner/static/js/main.64723ce9.chunk.js.map",
+    "runtime-main.js": "/webaudio-pitch-tuner/static/js/runtime-main.55fa2fde.js",
+    "runtime-main.js.map": "/webaudio-pitch-tuner/static/js/runtime-main.55fa2fde.js.map",
+    "static/js/2.85cd05d7.chunk.js": "/webaudio-pitch-tuner/static/js/2.85cd05d7.chunk.js",
+    "static/js/2.85cd05d7.chunk.js.map": "/webaudio-pitch-tuner/static/js/2.85cd05d7.chunk.js.map",
+    "index.html": "/webaudio-pitch-tuner/index.html",
+    "static/css/main.b59fe771.chunk.css.map": "/webaudio-pitch-tuner/static/css/main.b59fe771.chunk.css.map",
+    "static/js/2.85cd05d7.chunk.js.LICENSE.txt": "/webaudio-pitch-tuner/static/js/2.85cd05d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55fa2fde.js",
+    "static/js/2.85cd05d7.chunk.js",
+    "static/css/main.b59fe771.chunk.css",
+    "static/js/main.64723ce9.chunk.js"
+  ]
+}
