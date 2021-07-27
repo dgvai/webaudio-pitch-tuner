@@ -130,7 +130,7 @@ function App() {
                 width: (detune < 0 ? getDetunePercent(detune) : "50") + "%",
               }}
             ></div>
-            <span className="fixed font-bold text-lg text-green-800">I</span>
+            <span className="font-bold text-lg text-green-800">I</span>
             <div
               className="bg-gradient-to-r from-green-400 to-red-600 py-1 rounded-full"
               style={{
